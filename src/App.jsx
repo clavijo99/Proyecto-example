@@ -1,6 +1,8 @@
 
+import AppRouter from './routes/AppRouter'
+
 export default function App() {
   return (
-    <h1>HI!</h1>
+    <AppRouter />
   )
 }
